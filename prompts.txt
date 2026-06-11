@@ -1,0 +1,4 @@
+1.  “O QUE É SQL AI DIABA?”
+2.“Sou uma aluna de graduação em ciência da computação, estou no meu primeiro semestre e preciso de uma explicação resumida sobre o básico de SQL. faça como um texto para relatório”
+3."faz um coiso de código ai pra um jogo de adivinhar um número"
+4. “Gostaria de um código, feito em C, para um jogo de adivinhação para um número aleatório. Crie barreiras contra erros para caso o jogador escolha um número sem sentido (fora do intervalo aleatório) e comente o código para uma pessoa de nível avançado em C compreender”
